@@ -40,7 +40,7 @@ public class Main {
                 1) (USD) Dolar Estadounidense 
                 2) (EUR) Euro
                 3) (COP) Peso Colombiano
-                4) (CHF) Franco Suizo 
+                4) (CLP) Peso Chileno 
                 5) (GBP) Libra Esterlina
                 6) (JOD) Dinar Jordano 
                 7) (MXN) Peso Mexicano
@@ -80,7 +80,7 @@ public class Main {
                 1) (USD) Dolar Estadounidense 
                 2) (EUR) Euro
                 3) (COP) Peso Colombiano
-                4) (CHF) Franco Suizo 
+                4) (CLP) Peso Chileno 
                 5) (GBP) Libra Esterlina
                 6) (JOD) Dinar Jordano 
                 7) (MXN) Peso Mexicano

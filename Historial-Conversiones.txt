@@ -1,0 +1,32 @@
+Fecha de Conversion: 27/10/2024
+***********************************
+*Conversion Generada Correctamente*
+Divisa de Origen :COP
+Divisa Destino : USD
+Valor : 46,56
+ValorCambio : 2.3281E-4
+**********************************
+Fecha de Conversion: 27/10/2024
+***********************************
+*Conversion Generada Correctamente*
+Divisa de Origen :COP
+Divisa Destino : EUR
+Valor : 42,94
+ValorCambio : 2.1472E-4
+**********************************
+Fecha de Conversion: 27/10/2024
+***********************************
+*Conversion Generada Correctamente*
+Divisa de Origen :EUR
+Divisa Destino : COP
+Valor : 209.574,92
+ValorCambio : 4657.2205
+**********************************
+Fecha de Conversion: 27/10/2024
+***********************************
+*Conversion Generada Correctamente*
+Divisa de Origen :USD
+Divisa Destino : COP
+Valor : 214.780,52
+ValorCambio : 4295.6104
+**********************************
